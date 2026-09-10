@@ -10,6 +10,10 @@
   background: orange;
   height: 50px;
   margin-left: 720px;
-  
-  
+}
+#root{
+  img{
+    font-size:120px;
+  }
+}  
   
